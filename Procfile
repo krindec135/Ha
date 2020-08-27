@@ -1,0 +1,1 @@
+worker: python3 ekzamenhack1337.py
